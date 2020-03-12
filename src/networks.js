@@ -4,8 +4,8 @@ exports.bitcoin = {
   messagePrefix: '\x18Veles Signed Message:\n',
   bech32: 'veles',
   bip32: {
-    public: 0xa40c86fa,
-    private: 0xa40b91bd,
+    public: 0x0488b21e,
+    private: 0x0488ade4,
   },
   pubKeyHash: 0x46,
   scriptHash: 0x1e,
